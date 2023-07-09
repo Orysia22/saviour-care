@@ -1,0 +1,22 @@
+* {
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    scroll-behavior: smooth;
+    --dark-blue: #3C567B;
+    --menu-active: #2E4E92;
+    --menu: #1F1534;
+    --light-blue-text: #93C1F9;
+    --buttons: #458FF6;
+    --headings: #462E6A;
+    --text-gray: #CCD2E9;
+    --text-all: #7D7987;
+    --black: #000000;
+    --testimonials: #5B9BF3;
+    --white: #fff;
+    --footer-up: #6888C8;
+    --footer-down: #5A98F2;
+}
