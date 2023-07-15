@@ -19,4 +19,42 @@
     --white: #fff;
     --footer-up: #6888C8;
     --footer-down: #5A98F2;
+    font-family: 'Mulish', sans-serif; 
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+ul {
+    list-style: none;
+  }
+  
+.logo {
+    width: 28px;
+    height: 28px;
+}
+
+.header__navigation-menu {
+    display: flex;
+    flex-direction: row;
+    color: var(--menu);
+}
+
+h1 {
+    color: var(--dark-blue);
+}
+
+.header__logo-container-text {
+    color: var(--headings);
+}
+
+footer {
+    background-color: var(--footer-up);
 }
